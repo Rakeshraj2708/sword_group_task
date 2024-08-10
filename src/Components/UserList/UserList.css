@@ -1,0 +1,31 @@
+
+td, .total-pages, th{
+    text-align: center;
+}
+
+th{
+    color: #3c009d !important;
+}
+
+td{
+    border-color: #3c009d; 
+    vertical-align: middle;
+}
+
+h1.title{
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+body{
+    background: linear-gradient(#2a00b7, #42006c);
+    height: 100%;
+}
+
+.active .page-link{
+    background-color: #42006c;
+
+}
+
+
